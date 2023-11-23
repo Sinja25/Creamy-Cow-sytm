@@ -1,0 +1,19 @@
+Side Nav:
+
+Dashboard
+Products
+Order
+History
+Sales
+Users
+Feedbacks
+
+Account Settings
+Logout
+
+
+Dashboard:
+Customers
+Orders
+Pick Up
+Earnings
